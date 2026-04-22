@@ -1,7 +1,6 @@
 ---
 layout: null
 ---
-@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@700&family=Yuji+Syuku&display=swap');
 @import url("pygment_highlights.css");
 
 :root {
@@ -19,8 +18,8 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
 /* common CSS variables */
- --body-font: 'Times New Roman', 'Yuji Syuku', serif;
- --header-font: 'Yuji Syuku', serif;
+ --body-font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ --header-font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
  --mid-col: #808080;
 }
 
