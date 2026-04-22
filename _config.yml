@@ -1,0 +1,7 @@
+title: 東北大学〇〇部 OB・OG会
+description: OB・OG会の公式サイトです。
+theme: minima
+remote_theme: jekyll/minima # GitHub Pagesでテーマを適用するために必要
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
