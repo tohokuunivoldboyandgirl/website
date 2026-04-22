@@ -5,6 +5,7 @@ https://tohokuunivoldboyandgirl.github.io/website/
 _config.ymlがホームの設定twitterとかわからんから設定よろしく
 assets/css/beautifuljekyll.cssが基本の設定があるからちょいめんどいけど設定かえれる
 githubの管理者権限の管理はいろいろあるから将来的には変わるかもやけどいろいろ階層あるから管理がんばって
+このサイトはOB・OGと現役を繋ぐ大事な場所にして。最初は難しく感じるかもしれんが、Markdownという簡単なルールさえ覚えれば誰でも編集できる。伝統ある部を、一緒に育てていきましょう
 製作者　c1岡藤健人より
 
 # Beautiful Jekyll
