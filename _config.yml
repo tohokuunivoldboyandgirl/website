@@ -21,7 +21,7 @@ author: 東北大学医歯薬ハンドボール部編集
 
 navbar-links:
   About Me: "aboutme"
-  お知らせ: ""
+  お知らせ: "_posts"
 
 ################
 # --- Logo --- #
@@ -151,7 +151,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/hadballimage.png"
 footer-img: "/assets/img/handball.jpeg"
 #page-img: "/assets/img/bgimage.png"
 
