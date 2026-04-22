@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About me
 subtitle: 東北大学医歯薬ハンドボール部
 ---
 
