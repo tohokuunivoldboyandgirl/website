@@ -2,7 +2,10 @@
 https://tohokuunivoldboyandgirl.github.io/website/
 これが公開されるurlで
 下のはこのウェブサイトつくるときに使ったフォーマットを作った人の説明。わかんないことあったら、下のところから調べてAIにでも聞いて変えてみて
-製作者　岡藤健人より
+_config.ymlがホームの設定twitterとかわからんから設定よろしく
+assets/css/beautifuljekyll.cssが基本の設定があるからちょいめんどいけど設定かえれる
+githubの管理者権限の管理はいろいろあるから将来的には変わるかもやけどいろいろ階層あるから管理がんばって
+製作者　c1岡藤健人より
 
 # Beautiful Jekyll
 
