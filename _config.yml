@@ -21,10 +21,7 @@ author: 東北大学医歯薬ハンドボール部編集
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  お知らせ: ""
 
 ################
 # --- Logo --- #
