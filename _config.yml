@@ -61,7 +61,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-instagram: tohoku_med_hand
+instagram: tohoku_med_hand　#
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -96,7 +96,7 @@ share-links-active:
   #linkedin: true
   #vk: false
   #reddit: false
-  instgram: true
+  instagram: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
