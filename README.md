@@ -1,3 +1,9 @@
+東北医歯薬ハンド部OBOGの会
+https://tohokuunivoldboyandgirl.github.io/website/
+これが公開されるurlで
+下のはこのウェブサイトつくるときに使ったフォーマットを作った人の説明。わかんないことあったら、下のところから調べてAIにでも聞いて変えてみて
+製作者　岡藤健人より
+
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
